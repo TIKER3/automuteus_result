@@ -1,0 +1,112 @@
+[
+  {
+    "period": "2025-01",
+    "totalGames": 42,
+    "wins": 30,
+    "winRate": 71.42857142857143,
+    "crewGames": 30,
+    "crewWins": 30,
+    "impostorGames": 12,
+    "impostorWins": 0
+  },
+  {
+    "period": "2025-02",
+    "totalGames": 85,
+    "wins": 54,
+    "winRate": 63.52941176470588,
+    "crewGames": 63,
+    "crewWins": 48,
+    "impostorGames": 22,
+    "impostorWins": 6
+  },
+  {
+    "period": "2025-03",
+    "totalGames": 81,
+    "wins": 51,
+    "winRate": 62.96296296296296,
+    "crewGames": 61,
+    "crewWins": 45,
+    "impostorGames": 20,
+    "impostorWins": 6
+  },
+  {
+    "period": "2025-05",
+    "totalGames": 57,
+    "wins": 39,
+    "winRate": 68.42105263157895,
+    "crewGames": 45,
+    "crewWins": 37,
+    "impostorGames": 12,
+    "impostorWins": 2
+  },
+  {
+    "period": "2025-06",
+    "totalGames": 30,
+    "wins": 19,
+    "winRate": 63.33333333333333,
+    "crewGames": 22,
+    "crewWins": 17,
+    "impostorGames": 8,
+    "impostorWins": 2
+  },
+  {
+    "period": "2025-07",
+    "totalGames": 30,
+    "wins": 23,
+    "winRate": 76.66666666666667,
+    "crewGames": 23,
+    "crewWins": 23,
+    "impostorGames": 7,
+    "impostorWins": 0
+  },
+  {
+    "period": "2025-08",
+    "totalGames": 35,
+    "wins": 27,
+    "winRate": 77.14285714285715,
+    "crewGames": 27,
+    "crewWins": 27,
+    "impostorGames": 8,
+    "impostorWins": 0
+  },
+  {
+    "period": "2025-09",
+    "totalGames": 18,
+    "wins": 15,
+    "winRate": 83.33333333333334,
+    "crewGames": 15,
+    "crewWins": 15,
+    "impostorGames": 3,
+    "impostorWins": 0
+  },
+  {
+    "period": "2025-10",
+    "totalGames": 113,
+    "wins": 63,
+    "winRate": 55.75221238938053,
+    "crewGames": 92,
+    "crewWins": 54,
+    "impostorGames": 21,
+    "impostorWins": 9
+  },
+  {
+    "period": "2025-11",
+    "totalGames": 51,
+    "wins": 36,
+    "winRate": 70.58823529411765,
+    "crewGames": 40,
+    "crewWins": 34,
+    "impostorGames": 11,
+    "impostorWins": 2
+  },
+  {
+    "period": "2026-01",
+    "totalGames": 66,
+    "wins": 51,
+    "winRate": 77.27272727272727,
+    "crewGames": 55,
+    "crewWins": 50,
+    "impostorGames": 11,
+    "impostorWins": 1
+  }
+]

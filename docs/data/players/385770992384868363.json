@@ -1,0 +1,128 @@
+{
+  "stats": {
+    "odoraiId": "385770992384868363",
+    "odoraiName": "WASABE",
+    "totalGames": 11,
+    "crewGames": 8,
+    "impostorGames": 3,
+    "crewWins": 5,
+    "impostorWins": 1,
+    "crewWinRate": 62.5,
+    "impostorWinRate": 33.33333333333333,
+    "overallWinRate": 54.54545454545454,
+    "lastPlayed": "2025-05-09T15:41:50.000Z",
+    "recentGames": [
+      {
+        "gameId": "58",
+        "endTime": "2025-05-09T15:41:50.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "57",
+        "endTime": "2025-05-09T15:14:07.000Z",
+        "role": "crew",
+        "won": false
+      },
+      {
+        "gameId": "56",
+        "endTime": "2025-05-09T14:58:54.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "55",
+        "endTime": "2025-05-09T14:49:05.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "54",
+        "endTime": "2025-05-09T14:13:58.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "53",
+        "endTime": "2025-05-09T13:53:44.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "34",
+        "endTime": "2025-02-10T15:06:40.000Z",
+        "role": "impostor",
+        "won": true
+      },
+      {
+        "gameId": "33",
+        "endTime": "2025-02-10T14:44:12.000Z",
+        "role": "crew",
+        "won": false
+      },
+      {
+        "gameId": "15",
+        "endTime": "2025-01-10T14:59:36.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "14",
+        "endTime": "2025-01-10T14:42:06.000Z",
+        "role": "crew",
+        "won": false
+      },
+      {
+        "gameId": "13",
+        "endTime": "2025-01-10T14:24:04.000Z",
+        "role": "crew",
+        "won": true
+      }
+    ],
+    "streaks": {
+      "currentWinStreak": 1,
+      "maxWinStreak": 1,
+      "currentLossStreak": 0
+    }
+  },
+  "trends": {
+    "daily": [],
+    "weekly": [],
+    "monthly": [
+      {
+        "period": "2025-02",
+        "totalGames": 2,
+        "wins": 1,
+        "winRate": 50,
+        "crewGames": 1,
+        "crewWins": 0,
+        "impostorGames": 1,
+        "impostorWins": 1
+      },
+      {
+        "period": "2025-05",
+        "totalGames": 6,
+        "wins": 3,
+        "winRate": 50,
+        "crewGames": 4,
+        "crewWins": 3,
+        "impostorGames": 2,
+        "impostorWins": 0
+      }
+    ]
+  },
+  "heatmap": [
+    {
+      "date": "2025-02-09",
+      "count": 2,
+      "wins": 1,
+      "losses": 1
+    },
+    {
+      "date": "2025-05-08",
+      "count": 6,
+      "wins": 3,
+      "losses": 3
+    }
+  ]
+}
