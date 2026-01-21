@@ -1,0 +1,23 @@
+{
+  "name": "amongus-stats-server",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "export-data": "tsx src/scripts/exportData.ts"
+  },
+  "dependencies": {
+    "@fastify/cors": "^10.0.2",
+    "dotenv": "^17.2.3",
+    "fastify": "^5.2.1",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "@types/pg": "^8.11.10",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

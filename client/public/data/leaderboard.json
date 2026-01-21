@@ -1,0 +1,122 @@
+[
+  {
+    "rank": 1,
+    "odoraiId": "740856962069037076",
+    "odoraiName": "Ara",
+    "totalGames": 60,
+    "wins": 48,
+    "winRate": 80,
+    "crewWinRate": 91.84,
+    "impostorWinRate": 27.27
+  },
+  {
+    "rank": 2,
+    "odoraiId": "442369911453515796",
+    "odoraiName": "FUMA",
+    "totalGames": 94,
+    "wins": 72,
+    "winRate": 76.6,
+    "crewWinRate": 88,
+    "impostorWinRate": 31.58
+  },
+  {
+    "rank": 3,
+    "odoraiId": "699213355201855548",
+    "odoraiName": "トリニキ",
+    "totalGames": 28,
+    "wins": 21,
+    "winRate": 75,
+    "crewWinRate": 91.3,
+    "impostorWinRate": 0
+  },
+  {
+    "rank": 4,
+    "odoraiId": "259753018411581440",
+    "odoraiName": "yudoufu",
+    "totalGames": 79,
+    "wins": 57,
+    "winRate": 72.15,
+    "crewWinRate": 89.29,
+    "impostorWinRate": 30.43
+  },
+  {
+    "rank": 5,
+    "odoraiId": "219046881588674560",
+    "odoraiName": "ゴッドサプ",
+    "totalGames": 69,
+    "wins": 49,
+    "winRate": 71.01,
+    "crewWinRate": 77.97,
+    "impostorWinRate": 30
+  },
+  {
+    "rank": 6,
+    "odoraiId": "540511095257956372",
+    "odoraiName": "タケ",
+    "totalGames": 107,
+    "wins": 74,
+    "winRate": 69.16,
+    "crewWinRate": 81.11,
+    "impostorWinRate": 5.88
+  },
+  {
+    "rank": 7,
+    "odoraiId": "342971392066584576",
+    "odoraiName": "kilion",
+    "totalGames": 31,
+    "wins": 21,
+    "winRate": 67.74,
+    "crewWinRate": 79.17,
+    "impostorWinRate": 28.57
+  },
+  {
+    "rank": 8,
+    "odoraiId": "697143479293313044",
+    "odoraiName": "グリ",
+    "totalGames": 105,
+    "wins": 70,
+    "winRate": 66.67,
+    "crewWinRate": 84.21,
+    "impostorWinRate": 20.69
+  },
+  {
+    "rank": 9,
+    "odoraiId": "360395083625005059",
+    "odoraiName": "おばけテンプラ",
+    "totalGames": 41,
+    "wins": 27,
+    "winRate": 65.85,
+    "crewWinRate": 76.47,
+    "impostorWinRate": 14.29
+  },
+  {
+    "rank": 10,
+    "odoraiId": "1223865881323376651",
+    "odoraiName": "ばっち",
+    "totalGames": 94,
+    "wins": 57,
+    "winRate": 60.64,
+    "crewWinRate": 81.43,
+    "impostorWinRate": 0
+  },
+  {
+    "rank": 11,
+    "odoraiId": "822777956966858762",
+    "odoraiName": "さくれ",
+    "totalGames": 37,
+    "wins": 22,
+    "winRate": 59.46,
+    "crewWinRate": 78.57,
+    "impostorWinRate": 0
+  },
+  {
+    "rank": 12,
+    "odoraiId": "385770992384868363",
+    "odoraiName": "WASABE",
+    "totalGames": 11,
+    "wins": 6,
+    "winRate": 54.55,
+    "crewWinRate": 62.5,
+    "impostorWinRate": 33.33
+  }
+]
