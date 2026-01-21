@@ -1,0 +1,32 @@
+[
+  {
+    "period": "2025-44",
+    "totalGames": 57,
+    "wins": 33,
+    "winRate": 57.89473684210527,
+    "crewGames": 45,
+    "crewWins": 28,
+    "impostorGames": 12,
+    "impostorWins": 5
+  },
+  {
+    "period": "2025-48",
+    "totalGames": 51,
+    "wins": 36,
+    "winRate": 70.58823529411765,
+    "crewGames": 40,
+    "crewWins": 34,
+    "impostorGames": 11,
+    "impostorWins": 2
+  },
+  {
+    "period": "2026-03",
+    "totalGames": 66,
+    "wins": 51,
+    "winRate": 77.27272727272727,
+    "crewGames": 55,
+    "crewWins": 50,
+    "impostorGames": 11,
+    "impostorWins": 1
+  }
+]

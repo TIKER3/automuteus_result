@@ -1,0 +1,268 @@
+{
+  "stats": {
+    "odoraiId": "699213355201855548",
+    "odoraiName": "トリニキ",
+    "totalGames": 28,
+    "crewGames": 23,
+    "impostorGames": 5,
+    "crewWins": 21,
+    "impostorWins": 0,
+    "crewWinRate": 91.30434782608695,
+    "impostorWinRate": 0,
+    "overallWinRate": 75,
+    "lastPlayed": "2025-08-29T15:03:51.000Z",
+    "recentGames": [
+      {
+        "gameId": "69",
+        "endTime": "2025-08-29T15:03:51.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "68",
+        "endTime": "2025-08-29T14:31:59.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "67",
+        "endTime": "2025-08-29T13:58:45.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "66",
+        "endTime": "2025-07-18T14:54:16.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "65",
+        "endTime": "2025-07-18T14:29:05.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "64",
+        "endTime": "2025-07-18T14:15:24.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "62",
+        "endTime": "2025-06-20T15:03:38.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "61",
+        "endTime": "2025-06-20T14:46:56.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "52",
+        "endTime": "2025-03-21T15:03:48.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "51",
+        "endTime": "2025-03-21T14:49:01.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "50",
+        "endTime": "2025-03-21T14:21:25.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "49",
+        "endTime": "2025-03-21T13:55:33.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "47",
+        "endTime": "2025-03-14T14:57:52.000Z",
+        "role": "crew",
+        "won": false
+      },
+      {
+        "gameId": "46",
+        "endTime": "2025-03-14T14:42:25.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "45",
+        "endTime": "2025-03-14T14:38:40.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "44",
+        "endTime": "2025-03-14T14:20:03.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "43",
+        "endTime": "2025-03-14T14:06:50.000Z",
+        "role": "crew",
+        "won": false
+      },
+      {
+        "gameId": "42",
+        "endTime": "2025-03-14T13:52:46.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "12",
+        "endTime": "2024-11-29T15:05:53.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "11",
+        "endTime": "2024-11-29T14:41:34.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "10",
+        "endTime": "2024-11-29T14:20:11.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "7",
+        "endTime": "2024-11-15T14:58:51.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "6",
+        "endTime": "2024-11-15T14:44:39.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "5",
+        "endTime": "2024-11-15T14:36:48.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "4",
+        "endTime": "2024-11-15T14:29:24.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "3",
+        "endTime": "2024-11-15T14:11:00.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "2",
+        "endTime": "2024-11-15T14:06:17.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "1",
+        "endTime": "2024-11-15T14:03:16.000Z",
+        "role": "crew",
+        "won": true
+      }
+    ],
+    "streaks": {
+      "currentWinStreak": 1,
+      "maxWinStreak": 1,
+      "currentLossStreak": 0
+    }
+  },
+  "trends": {
+    "daily": [],
+    "weekly": [],
+    "monthly": [
+      {
+        "period": "2025-03",
+        "totalGames": 10,
+        "wins": 7,
+        "winRate": 70,
+        "crewGames": 9,
+        "crewWins": 7,
+        "impostorGames": 1,
+        "impostorWins": 0
+      },
+      {
+        "period": "2025-06",
+        "totalGames": 2,
+        "wins": 2,
+        "winRate": 100,
+        "crewGames": 2,
+        "crewWins": 2,
+        "impostorGames": 0,
+        "impostorWins": 0
+      },
+      {
+        "period": "2025-07",
+        "totalGames": 3,
+        "wins": 2,
+        "winRate": 66.66666666666666,
+        "crewGames": 2,
+        "crewWins": 2,
+        "impostorGames": 1,
+        "impostorWins": 0
+      },
+      {
+        "period": "2025-08",
+        "totalGames": 3,
+        "wins": 2,
+        "winRate": 66.66666666666666,
+        "crewGames": 2,
+        "crewWins": 2,
+        "impostorGames": 1,
+        "impostorWins": 0
+      }
+    ]
+  },
+  "heatmap": [
+    {
+      "date": "2025-03-13",
+      "count": 6,
+      "wins": 3,
+      "losses": 3
+    },
+    {
+      "date": "2025-03-20",
+      "count": 4,
+      "wins": 4,
+      "losses": 0
+    },
+    {
+      "date": "2025-06-19",
+      "count": 2,
+      "wins": 2,
+      "losses": 0
+    },
+    {
+      "date": "2025-07-17",
+      "count": 3,
+      "wins": 2,
+      "losses": 1
+    },
+    {
+      "date": "2025-08-28",
+      "count": 3,
+      "wins": 2,
+      "losses": 1
+    }
+  ]
+}

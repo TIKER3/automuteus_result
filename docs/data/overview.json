@@ -1,0 +1,70 @@
+{
+  "totalGames": 109,
+  "totalPlayers": 12,
+  "crewWins": 494,
+  "impostorWins": 30,
+  "crewWinRate": 83.44594594594594,
+  "impostorWinRate": 18.29268292682927,
+  "recentGames": [
+    {
+      "gameId": "110",
+      "endTime": "2026-01-16T15:21:50.000Z",
+      "winner": "crew",
+      "playerCount": 6
+    },
+    {
+      "gameId": "109",
+      "endTime": "2026-01-16T15:12:22.000Z",
+      "winner": "impostor",
+      "playerCount": 6
+    },
+    {
+      "gameId": "108",
+      "endTime": "2026-01-16T15:01:37.000Z",
+      "winner": "crew",
+      "playerCount": 6
+    },
+    {
+      "gameId": "107",
+      "endTime": "2026-01-16T14:53:08.000Z",
+      "winner": "crew",
+      "playerCount": 6
+    },
+    {
+      "gameId": "106",
+      "endTime": "2026-01-16T14:40:09.000Z",
+      "winner": "crew",
+      "playerCount": 6
+    },
+    {
+      "gameId": "105",
+      "endTime": "2026-01-16T14:35:17.000Z",
+      "winner": "crew",
+      "playerCount": 6
+    },
+    {
+      "gameId": "104",
+      "endTime": "2026-01-16T14:31:00.000Z",
+      "winner": "crew",
+      "playerCount": 6
+    },
+    {
+      "gameId": "103",
+      "endTime": "2026-01-16T14:27:41.000Z",
+      "winner": "crew",
+      "playerCount": 6
+    },
+    {
+      "gameId": "102",
+      "endTime": "2026-01-16T14:11:14.000Z",
+      "winner": "crew",
+      "playerCount": 6
+    },
+    {
+      "gameId": "101",
+      "endTime": "2026-01-16T14:02:51.000Z",
+      "winner": "crew",
+      "playerCount": 6
+    }
+  ]
+}

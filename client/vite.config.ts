@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig(({ command }) => ({
   plugins: [react(), tailwindcss()],
-  base: command === 'build' ? '/amongUs_result/' : '/',
+  base: command === 'build' ? '/automuteus_result/' : '/',
   build: {
     outDir: '../docs',
     emptyOutDir: true,

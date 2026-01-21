@@ -1,0 +1,566 @@
+{
+  "stats": {
+    "odoraiId": "697143479293313044",
+    "odoraiName": "グリ",
+    "totalGames": 105,
+    "crewGames": 76,
+    "impostorGames": 29,
+    "crewWins": 64,
+    "impostorWins": 6,
+    "crewWinRate": 84.21052631578947,
+    "impostorWinRate": 20.689655172413794,
+    "overallWinRate": 66.66666666666666,
+    "lastPlayed": "2026-01-16T15:21:50.000Z",
+    "recentGames": [
+      {
+        "gameId": "110",
+        "endTime": "2026-01-16T15:21:50.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "109",
+        "endTime": "2026-01-16T15:12:22.000Z",
+        "role": "crew",
+        "won": false
+      },
+      {
+        "gameId": "108",
+        "endTime": "2026-01-16T15:01:37.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "107",
+        "endTime": "2026-01-16T14:53:08.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "106",
+        "endTime": "2026-01-16T14:40:09.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "105",
+        "endTime": "2026-01-16T14:35:17.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "104",
+        "endTime": "2026-01-16T14:31:00.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "103",
+        "endTime": "2026-01-16T14:27:41.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "102",
+        "endTime": "2026-01-16T14:11:14.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "101",
+        "endTime": "2026-01-16T14:02:51.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "100",
+        "endTime": "2026-01-16T13:49:27.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "99",
+        "endTime": "2025-11-28T15:34:44.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "98",
+        "endTime": "2025-11-28T15:09:17.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "97",
+        "endTime": "2025-11-28T14:43:46.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "96",
+        "endTime": "2025-11-28T14:18:24.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "95",
+        "endTime": "2025-11-28T14:02:44.000Z",
+        "role": "crew",
+        "won": false
+      },
+      {
+        "gameId": "94",
+        "endTime": "2025-11-28T13:42:07.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "93",
+        "endTime": "2025-10-31T15:47:46.000Z",
+        "role": "crew",
+        "won": false
+      },
+      {
+        "gameId": "92",
+        "endTime": "2025-10-31T15:36:37.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "91",
+        "endTime": "2025-10-31T15:30:04.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "90",
+        "endTime": "2025-10-31T15:14:04.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "89",
+        "endTime": "2025-10-31T15:00:23.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "88",
+        "endTime": "2025-10-31T14:35:34.000Z",
+        "role": "impostor",
+        "won": true
+      },
+      {
+        "gameId": "87",
+        "endTime": "2025-10-31T14:08:29.000Z",
+        "role": "crew",
+        "won": false
+      },
+      {
+        "gameId": "86",
+        "endTime": "2025-10-31T13:44:35.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "85",
+        "endTime": "2025-10-10T15:11:39.000Z",
+        "role": "impostor",
+        "won": true
+      },
+      {
+        "gameId": "84",
+        "endTime": "2025-10-10T15:01:11.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "83",
+        "endTime": "2025-10-10T14:58:28.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "82",
+        "endTime": "2025-10-10T14:49:14.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "81",
+        "endTime": "2025-10-10T14:42:09.000Z",
+        "role": "crew",
+        "won": false
+      },
+      {
+        "gameId": "80",
+        "endTime": "2025-10-10T14:27:49.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "79",
+        "endTime": "2025-10-10T14:15:17.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "78",
+        "endTime": "2025-10-10T14:08:04.000Z",
+        "role": "crew",
+        "won": false
+      },
+      {
+        "gameId": "77",
+        "endTime": "2025-10-10T13:56:49.000Z",
+        "role": "crew",
+        "won": false
+      },
+      {
+        "gameId": "73",
+        "endTime": "2025-09-05T14:05:17.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "72",
+        "endTime": "2025-09-05T13:51:53.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "71",
+        "endTime": "2025-09-05T13:43:27.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "70",
+        "endTime": "2025-08-29T15:25:32.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "69",
+        "endTime": "2025-08-29T15:03:51.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "68",
+        "endTime": "2025-08-29T14:31:59.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "67",
+        "endTime": "2025-08-29T13:58:45.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "66",
+        "endTime": "2025-07-18T14:54:16.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "65",
+        "endTime": "2025-07-18T14:29:05.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "64",
+        "endTime": "2025-07-18T14:15:24.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "63",
+        "endTime": "2025-07-18T13:55:54.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "62",
+        "endTime": "2025-06-20T15:03:38.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "61",
+        "endTime": "2025-06-20T14:46:56.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "60",
+        "endTime": "2025-06-20T14:24:17.000Z",
+        "role": "impostor",
+        "won": true
+      },
+      {
+        "gameId": "59",
+        "endTime": "2025-06-20T14:03:01.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "58",
+        "endTime": "2025-05-09T15:41:50.000Z",
+        "role": "crew",
+        "won": true
+      }
+    ],
+    "streaks": {
+      "currentWinStreak": 1,
+      "maxWinStreak": 1,
+      "currentLossStreak": 0
+    }
+  },
+  "trends": {
+    "daily": [
+      {
+        "period": "2026-01-16",
+        "totalGames": 11,
+        "wins": 7,
+        "winRate": 63.63636363636363,
+        "crewGames": 8,
+        "crewWins": 7,
+        "impostorGames": 3,
+        "impostorWins": 0
+      }
+    ],
+    "weekly": [
+      {
+        "period": "2025-44",
+        "totalGames": 8,
+        "wins": 5,
+        "winRate": 62.5,
+        "crewGames": 6,
+        "crewWins": 4,
+        "impostorGames": 2,
+        "impostorWins": 1
+      },
+      {
+        "period": "2025-48",
+        "totalGames": 6,
+        "wins": 3,
+        "winRate": 50,
+        "crewGames": 4,
+        "crewWins": 3,
+        "impostorGames": 2,
+        "impostorWins": 0
+      },
+      {
+        "period": "2026-03",
+        "totalGames": 11,
+        "wins": 7,
+        "winRate": 63.63636363636363,
+        "crewGames": 8,
+        "crewWins": 7,
+        "impostorGames": 3,
+        "impostorWins": 0
+      }
+    ],
+    "monthly": [
+      {
+        "period": "2025-01",
+        "totalGames": 6,
+        "wins": 5,
+        "winRate": 83.33333333333334,
+        "crewGames": 5,
+        "crewWins": 5,
+        "impostorGames": 1,
+        "impostorWins": 0
+      },
+      {
+        "period": "2025-02",
+        "totalGames": 11,
+        "wins": 5,
+        "winRate": 45.45454545454545,
+        "crewGames": 8,
+        "crewWins": 5,
+        "impostorGames": 3,
+        "impostorWins": 0
+      },
+      {
+        "period": "2025-03",
+        "totalGames": 11,
+        "wins": 8,
+        "winRate": 72.72727272727273,
+        "crewGames": 7,
+        "crewWins": 6,
+        "impostorGames": 4,
+        "impostorWins": 2
+      },
+      {
+        "period": "2025-05",
+        "totalGames": 6,
+        "wins": 4,
+        "winRate": 66.66666666666666,
+        "crewGames": 3,
+        "crewWins": 3,
+        "impostorGames": 3,
+        "impostorWins": 1
+      },
+      {
+        "period": "2025-06",
+        "totalGames": 4,
+        "wins": 2,
+        "winRate": 50,
+        "crewGames": 1,
+        "crewWins": 1,
+        "impostorGames": 3,
+        "impostorWins": 1
+      },
+      {
+        "period": "2025-07",
+        "totalGames": 4,
+        "wins": 2,
+        "winRate": 50,
+        "crewGames": 2,
+        "crewWins": 2,
+        "impostorGames": 2,
+        "impostorWins": 0
+      },
+      {
+        "period": "2025-08",
+        "totalGames": 4,
+        "wins": 3,
+        "winRate": 75,
+        "crewGames": 3,
+        "crewWins": 3,
+        "impostorGames": 1,
+        "impostorWins": 0
+      },
+      {
+        "period": "2025-09",
+        "totalGames": 3,
+        "wins": 3,
+        "winRate": 100,
+        "crewGames": 3,
+        "crewWins": 3,
+        "impostorGames": 0,
+        "impostorWins": 0
+      },
+      {
+        "period": "2025-10",
+        "totalGames": 17,
+        "wins": 10,
+        "winRate": 58.82352941176471,
+        "crewGames": 13,
+        "crewWins": 8,
+        "impostorGames": 4,
+        "impostorWins": 2
+      },
+      {
+        "period": "2025-11",
+        "totalGames": 6,
+        "wins": 3,
+        "winRate": 50,
+        "crewGames": 4,
+        "crewWins": 3,
+        "impostorGames": 2,
+        "impostorWins": 0
+      },
+      {
+        "period": "2026-01",
+        "totalGames": 11,
+        "wins": 7,
+        "winRate": 63.63636363636363,
+        "crewGames": 8,
+        "crewWins": 7,
+        "impostorGames": 3,
+        "impostorWins": 0
+      }
+    ]
+  },
+  "heatmap": [
+    {
+      "date": "2025-01-30",
+      "count": 6,
+      "wins": 5,
+      "losses": 1
+    },
+    {
+      "date": "2025-02-09",
+      "count": 6,
+      "wins": 3,
+      "losses": 3
+    },
+    {
+      "date": "2025-02-20",
+      "count": 5,
+      "wins": 2,
+      "losses": 3
+    },
+    {
+      "date": "2025-03-13",
+      "count": 7,
+      "wins": 5,
+      "losses": 2
+    },
+    {
+      "date": "2025-03-20",
+      "count": 4,
+      "wins": 3,
+      "losses": 1
+    },
+    {
+      "date": "2025-05-08",
+      "count": 6,
+      "wins": 4,
+      "losses": 2
+    },
+    {
+      "date": "2025-06-19",
+      "count": 4,
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "date": "2025-07-17",
+      "count": 4,
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "date": "2025-08-28",
+      "count": 4,
+      "wins": 3,
+      "losses": 1
+    },
+    {
+      "date": "2025-09-04",
+      "count": 3,
+      "wins": 3,
+      "losses": 0
+    },
+    {
+      "date": "2025-10-09",
+      "count": 9,
+      "wins": 5,
+      "losses": 4
+    },
+    {
+      "date": "2025-10-30",
+      "count": 8,
+      "wins": 5,
+      "losses": 3
+    },
+    {
+      "date": "2025-11-27",
+      "count": 6,
+      "wins": 3,
+      "losses": 3
+    },
+    {
+      "date": "2026-01-15",
+      "count": 11,
+      "wins": 7,
+      "losses": 4
+    }
+  ]
+}
