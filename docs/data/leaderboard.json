@@ -13,10 +13,10 @@
     "rank": 2,
     "odoraiId": "442369911453515796",
     "odoraiName": "FUMA",
-    "totalGames": 94,
-    "wins": 72,
-    "winRate": 76.6,
-    "crewWinRate": 88,
+    "totalGames": 101,
+    "wins": 79,
+    "winRate": 78.22,
+    "crewWinRate": 89.02,
     "impostorWinRate": 31.58
   },
   {
@@ -33,14 +33,24 @@
     "rank": 4,
     "odoraiId": "259753018411581440",
     "odoraiName": "yudoufu",
-    "totalGames": 79,
-    "wins": 57,
-    "winRate": 72.15,
-    "crewWinRate": 89.29,
-    "impostorWinRate": 30.43
+    "totalGames": 88,
+    "wins": 65,
+    "winRate": 73.86,
+    "crewWinRate": 90.63,
+    "impostorWinRate": 29.17
   },
   {
     "rank": 5,
+    "odoraiId": "342971392066584576",
+    "odoraiName": "kilion",
+    "totalGames": 41,
+    "wins": 30,
+    "winRate": 73.17,
+    "crewWinRate": 84.85,
+    "impostorWinRate": 25
+  },
+  {
+    "rank": 6,
     "odoraiId": "219046881588674560",
     "odoraiName": "ゴッドサプ",
     "totalGames": 69,
@@ -50,44 +60,34 @@
     "impostorWinRate": 30
   },
   {
-    "rank": 6,
+    "rank": 7,
     "odoraiId": "540511095257956372",
     "odoraiName": "タケ",
-    "totalGames": 107,
-    "wins": 74,
-    "winRate": 69.16,
-    "crewWinRate": 81.11,
-    "impostorWinRate": 5.88
-  },
-  {
-    "rank": 7,
-    "odoraiId": "342971392066584576",
-    "odoraiName": "kilion",
-    "totalGames": 31,
-    "wins": 21,
-    "winRate": 67.74,
-    "crewWinRate": 79.17,
-    "impostorWinRate": 28.57
+    "totalGames": 117,
+    "wins": 82,
+    "winRate": 70.09,
+    "crewWinRate": 82.65,
+    "impostorWinRate": 5.26
   },
   {
     "rank": 8,
     "odoraiId": "697143479293313044",
     "odoraiName": "グリ",
-    "totalGames": 105,
-    "wins": 70,
-    "winRate": 66.67,
-    "crewWinRate": 84.21,
-    "impostorWinRate": 20.69
+    "totalGames": 115,
+    "wins": 79,
+    "winRate": 68.7,
+    "crewWinRate": 85.88,
+    "impostorWinRate": 20
   },
   {
     "rank": 9,
     "odoraiId": "360395083625005059",
     "odoraiName": "おばけテンプラ",
-    "totalGames": 41,
-    "wins": 27,
-    "winRate": 65.85,
-    "crewWinRate": 76.47,
-    "impostorWinRate": 14.29
+    "totalGames": 51,
+    "wins": 33,
+    "winRate": 64.71,
+    "crewWinRate": 80,
+    "impostorWinRate": 9.09
   },
   {
     "rank": 10,
