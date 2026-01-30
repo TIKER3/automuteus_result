@@ -101,12 +101,12 @@
   },
   {
     "period": "2026-01",
-    "totalGames": 66,
-    "wins": 51,
-    "winRate": 77.27272727272727,
-    "crewGames": 55,
-    "crewWins": 50,
-    "impostorGames": 11,
+    "totalGames": 122,
+    "wins": 98,
+    "winRate": 80.32786885245902,
+    "crewGames": 102,
+    "crewWins": 97,
+    "impostorGames": 20,
     "impostorWins": 1
   }
 ]

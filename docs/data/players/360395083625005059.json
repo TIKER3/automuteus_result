@@ -2,16 +2,76 @@
   "stats": {
     "odoraiId": "360395083625005059",
     "odoraiName": "おばけテンプラ",
-    "totalGames": 41,
-    "crewGames": 34,
-    "impostorGames": 7,
-    "crewWins": 26,
+    "totalGames": 51,
+    "crewGames": 40,
+    "impostorGames": 11,
+    "crewWins": 32,
     "impostorWins": 1,
-    "crewWinRate": 76.47058823529412,
-    "impostorWinRate": 14.285714285714285,
-    "overallWinRate": 65.85365853658537,
-    "lastPlayed": "2026-01-16T15:21:50.000Z",
+    "crewWinRate": 80,
+    "impostorWinRate": 9.090909090909092,
+    "overallWinRate": 64.70588235294117,
+    "lastPlayed": "2026-01-30T15:25:13.000Z",
     "recentGames": [
+      {
+        "gameId": "120",
+        "endTime": "2026-01-30T15:25:13.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "119",
+        "endTime": "2026-01-30T15:19:34.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "118",
+        "endTime": "2026-01-30T15:02:36.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "117",
+        "endTime": "2026-01-30T14:56:06.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "116",
+        "endTime": "2026-01-30T14:44:29.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "115",
+        "endTime": "2026-01-30T14:23:35.000Z",
+        "role": "crew",
+        "won": true
+      },
+      {
+        "gameId": "114",
+        "endTime": "2026-01-30T14:17:52.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "113",
+        "endTime": "2026-01-30T14:08:56.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "112",
+        "endTime": "2026-01-30T14:04:26.000Z",
+        "role": "impostor",
+        "won": false
+      },
+      {
+        "gameId": "111",
+        "endTime": "2026-01-30T13:51:45.000Z",
+        "role": "crew",
+        "won": true
+      },
       {
         "gameId": "110",
         "endTime": "2026-01-16T15:21:50.000Z",
@@ -251,17 +311,11 @@
         "endTime": "2025-08-29T14:31:59.000Z",
         "role": "crew",
         "won": true
-      },
-      {
-        "gameId": "67",
-        "endTime": "2025-08-29T13:58:45.000Z",
-        "role": "crew",
-        "won": true
       }
     ],
     "streaks": {
-      "currentWinStreak": 1,
-      "maxWinStreak": 1,
+      "currentWinStreak": 3,
+      "maxWinStreak": 3,
       "currentLossStreak": 0
     }
   },
@@ -276,19 +330,19 @@
         "crewWins": 7,
         "impostorGames": 3,
         "impostorWins": 0
+      },
+      {
+        "period": "2026-01-30",
+        "totalGames": 10,
+        "wins": 6,
+        "winRate": 60,
+        "crewGames": 6,
+        "crewWins": 6,
+        "impostorGames": 4,
+        "impostorWins": 0
       }
     ],
     "weekly": [
-      {
-        "period": "2025-44",
-        "totalGames": 8,
-        "wins": 5,
-        "winRate": 62.5,
-        "crewGames": 8,
-        "crewWins": 5,
-        "impostorGames": 0,
-        "impostorWins": 0
-      },
       {
         "period": "2025-48",
         "totalGames": 6,
@@ -307,6 +361,16 @@
         "crewGames": 8,
         "crewWins": 7,
         "impostorGames": 3,
+        "impostorWins": 0
+      },
+      {
+        "period": "2026-05",
+        "totalGames": 10,
+        "wins": 6,
+        "winRate": 60,
+        "crewGames": 6,
+        "crewWins": 6,
+        "impostorGames": 4,
         "impostorWins": 0
       }
     ],
@@ -353,12 +417,12 @@
       },
       {
         "period": "2026-01",
-        "totalGames": 11,
-        "wins": 7,
-        "winRate": 63.63636363636363,
-        "crewGames": 8,
-        "crewWins": 7,
-        "impostorGames": 3,
+        "totalGames": 21,
+        "wins": 13,
+        "winRate": 61.904761904761905,
+        "crewGames": 14,
+        "crewWins": 13,
+        "impostorGames": 7,
         "impostorWins": 0
       }
     ]
@@ -398,6 +462,12 @@
       "date": "2026-01-15",
       "count": 11,
       "wins": 7,
+      "losses": 4
+    },
+    {
+      "date": "2026-01-29",
+      "count": 10,
+      "wins": 6,
       "losses": 4
     }
   ]

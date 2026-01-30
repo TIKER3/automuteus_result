@@ -8,5 +8,15 @@
     "crewWins": 50,
     "impostorGames": 11,
     "impostorWins": 1
+  },
+  {
+    "period": "2026-01-30",
+    "totalGames": 56,
+    "wins": 47,
+    "winRate": 83.92857142857143,
+    "crewGames": 47,
+    "crewWins": 47,
+    "impostorGames": 9,
+    "impostorWins": 0
   }
 ]

@@ -323,16 +323,6 @@
     "daily": [],
     "weekly": [
       {
-        "period": "2025-44",
-        "totalGames": 5,
-        "wins": 3,
-        "winRate": 60,
-        "crewGames": 3,
-        "crewWins": 2,
-        "impostorGames": 2,
-        "impostorWins": 1
-      },
-      {
         "period": "2025-48",
         "totalGames": 6,
         "wins": 4,
